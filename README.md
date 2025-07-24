@@ -3,7 +3,7 @@ I'm a web developer with 3 years of experience,
 specializing in building fast and responsive
 websites using React.
 
-👽 Im Currently Working on BehsazMohit
+I'm Currently Working on BehsazMohit
 
 
 ## 🌐 Socials:
